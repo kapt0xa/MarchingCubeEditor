@@ -1,3 +1,5 @@
+// original table: https://gist.github.com/dwilliamson/c041e3454a713e58baf6e4f8e5fffecd
+// i just fixed some cases
 //
 // Lookup Tables for Marching Cubes
 //
